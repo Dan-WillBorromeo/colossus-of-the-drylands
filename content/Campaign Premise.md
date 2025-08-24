@@ -1,7 +1,3 @@
----
-dg-publish: true
-dg-home: true
----
 ![[Drylands Map.webp]]
 # **Campaign Intro**
 
