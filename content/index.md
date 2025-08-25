@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T13:54:59.772+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T15:14:50.507+08:00","cssclasses":""}
 ---
 
 
@@ -29,6 +29,13 @@ Breaking Cycles, The Burden of Heroism, Faith vs. Doubt, Greed, Ordinary People 
 
 # **Touchstones**
 Shadow of the Colossus, Red Dead Redemption, Deadlands, On the Shoulders of Colossus
+
+# **Emergence of Kudamat**
+
+**Siphoning Track:** <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> 
+
+> [!Warning]- DO NOT OPEN
+> Kudamat's total power: 0
 
 # **Distinctions:**
 
