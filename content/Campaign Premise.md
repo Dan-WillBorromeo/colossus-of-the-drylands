@@ -17,8 +17,8 @@ You lot? You answered their call. Maybe for coin, for faith, for power, or for l
 
 # **Distinctions:**
 
-- **[[The Children of Godfell]]:** Each of Kudamat’s nine soul shards are protected by a colossus known as a Child of Godfell. These beings are physical manifestations of the god’s will, hellbent on protecting their soul shard as its power is siphoned back to the mountain. Formed by elements of the soul shard’s surroundings, each is unique in personality, form, and capabilities.,
-- **Essentia:** The source of all magic in the Drylands. Without it, the mortals inhabiting these realms may have never been able to harnessed magic. Followers of both the Old and New gods claim that essentia is formed from the spilt lifeblood of the divine.,
+- **[[The Children of Godfell]]:** Each of Kudamat’s nine soul shards are protected by a colossus known as a Child of Godfell. These beings are physical manifestations of the god’s will, hellbent on protecting their soul shard as its power is siphoned back to the mountain. Formed by elements of the soul shard’s surroundings, each is unique in personality, form, and capabilities.
+- **Essentia:** The source of all magic in the Drylands. Without it, the mortals inhabiting these realms may have never been able to harnessed magic. Followers of both the Old and New gods claim that essentia is formed from the spilt lifeblood of the divine.
 - **The Prophecy of the Drylands God:** In the center of the world there is a mountain, and deep beneath that mountain there is an ancient and terrible god—a Forgotten God—struggling to break free of his confinement. One day Kudamat, the First Doom will escape his earthen tomb with the help of his nine colossi, the Children of Godfell, to sunder the world, his hated prison, and tear down the sky like fabric.
 
 # **Outposts:**
