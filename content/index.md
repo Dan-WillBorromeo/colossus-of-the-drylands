@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T20:45:04.996+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T20:56:44.326+08:00","cssclasses":""}
 ---
 
 
@@ -55,7 +55,7 @@ Since the *[[02. Phenomena & Stuff/Essentia#Essentia Rush\|Essentia Rush]]* bega
 - **[[01. Locations/01. Outposts/Defiance]]:** Famous for its position high atop a mesa, Defiance is an outpost rumored to have been established by a band of thieves looking to escape the law—and its position certainly provides a good view of anyone coming their way. These vagrants have a considerable cache of artillery aimed at the ground below, and they aren’t known to fire warning shots.
 # **Player Characters:**
 - **[[03. Cast/02. PCs/Dusty Dimmaridge]]**: a Ridgeborne Elf Warrior following the Call of the Brave. Played by J.E.
-- **[[Lady Briar Condord nee Simmons]]**: a Loreborne Giant/Faerie Bard Wordsmith. Played by R.C.
+- **[[03. Cast/02. PCs/Lady Briar Concord nee Simmons]]**: a Loreborne Giant/Faerie Bard Wordsmith. Played by R.C.
 - **[[03. Cast/02. PCs/Beth Bombadeath]]**: a Ridgeborne Halfling Guardian of Vengeance. Played by J.J.
 - **[[03. Cast/02. PCs/Sunny Starshroom]]**: an Underborne Fungril Ranger Wayfinder. Played by E.D.
 # **Notable NPCs:**
