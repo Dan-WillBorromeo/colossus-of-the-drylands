@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T13:31:51.404+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T13:54:59.772+08:00","cssclasses":""}
 ---
 
 
@@ -11,7 +11,7 @@
 
 40 years ago, the largest vein of **[[02. Phenomena & Stuff/Essentia]]** was found here. Soon came **Wylinn** and his city. Then came the others, traveling deeper into the Drylands, closer to **[[01. Locations/02. Natural Scenery/Godfell Mountain]]**, building their own outposts and mining their own veins. Life seemed to be looking up. Business was booming. The trains ran day and night taking raw essentia to factories and mountains of gold into the pockets of those with uncalloused hands.
 
-That all changed last year. An earthquake, the strongest in recorded history, struck **[[01. Locations/01. Outposts/Wylinn's Gulch]]**. The city withstood it, as it was made to, but not what followed. A colossal beast, stretching to the heavens, came to life and attacked. Many were lost. Business slowed to a crawl.
+That all changed last year. An earthquake, the strongest in recorded history, struck **[[01. Locations/01. Outposts/Wyllin's Gulch]]**. The city withstood it, as it was made to, but not what followed. A colossal beast, stretching to the heavens, came to life and attacked. Many were lost. Business slowed to a crawl.
 
 **[[03. Cast/03. NPCS/Mayor Logan Hartly]]**, daughter of the late Wylinn Hartly, lost many men and women since. She's looking for people who'd protect her city and slay the beast.
 
@@ -20,6 +20,15 @@ That all changed last year. An earthquake, the strongest in recorded history, st
 **[[03. Cast/03. NPCS/Preacher Rayos]]**, a disciple of the New Gods, has started grandstanding about the **[[02. Phenomena & Stuff/Prophecy of the Drylands God]]**, claiming the beast is the foretold colossus and one of the harbingers of **[[03. Cast/03. NPCS/Kudamat, the First Doom]]**. He's warning people off of essentia.
 
 You lot? You answered their call. Maybe for coin, for faith, for power, or for legacy. The *why* doesn't matter all that much now. All that matters, is if you can stand up again and again.
+
+# **Tone & Feel:**
+Awe-Inspiring, Dusty, Eerie, Gritty, Larger than Life, Terrifying
+
+# **THEMES**
+Breaking Cycles, The Burden of Heroism, Faith vs. Doubt, Greed, Ordinary People Accomplishing the Extraordinary
+
+# **Touchstones**
+Shadow of the Colossus, Red Dead Redemption, Deadlands, On the Shoulders of Colossus
 
 # **Distinctions:**
 

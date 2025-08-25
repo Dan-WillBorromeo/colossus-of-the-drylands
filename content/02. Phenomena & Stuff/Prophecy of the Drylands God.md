@@ -1,0 +1,5 @@
+The **Prophecy of the Drylands God** begins as thus: In the center of the world there is a mountain, and deep beneath that mountain there is an ancient and terrible god - a [[03. Cast/01. Groups/Forgotten God]] — struggling to break free of his confinement. One day [[03. Cast/03. NPCS/Kudamat, the First Doom]] will escape his earthen tomb with the help of his nine colossi, the [[Children of Godfell]], to sunder the world, his hated prison, and tear down the sky like fabric. As the [[03. Cast/01. Groups/New God\|New Gods]] fall from the Hallows Above, Kudamat will slay them with his stone sickle that their blood will flood the Mortal Realm. In this sanguine tide, Kudamat and the new generation of colossi, each made from the god’s very being, will destroy the creatures of the Mortal Realm and make room for abhorrent creations to repopulate the land, sea, and sky.
+
+In his triumph, Kudamat will free the many trapped gods of his generation and become the high lord among all divinities.
+
+At least, that’s how the old story went. Most people believed it was just another tall tale of the Drylands.
