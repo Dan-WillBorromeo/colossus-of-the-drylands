@@ -1,3 +1,9 @@
+---
+publish: true
+For DM only:
+---
+
+
 ![[Drylands Map.webp]]
 # **Campaign Intro**
 
@@ -22,7 +28,7 @@ You lot? You answered their call. Maybe for coin, for faith, for power, or for l
 - **The Prophecy of the Drylands God:** In the center of the world there is a mountain, and deep beneath that mountain there is an ancient and terrible god—a Forgotten God—struggling to break free of his confinement. One day Kudamat, the First Doom will escape his earthen tomb with the help of his nine colossi, the Children of Godfell, to sunder the world, his hated prison, and tear down the sky like fabric.
 
 # **Outposts:**
-Since the *[[Essentia Rush]]* began about 40 years ago, settlements like Wyllin’s Gulch formed around Godfell Mountain. Some are small encampments, while others are bustling towns cut through by dirt streets. But no matter their size, they’re always referred to as outposts, because everyone knows that once the local essentia veins are cleaned out, people will have their town packed up overnight.
+Since the *[[Essentia#Essentia Rush|Essentia Rush]]* began about 40 years ago, settlements like Wyllin’s Gulch formed around Godfell Mountain. Some are small encampments, while others are bustling towns cut through by dirt streets. But no matter their size, they’re always referred to as outposts, because everyone knows that once the local essentia veins are cleaned out, people will have their town packed up overnight.
 
 - **[[The Cinderline]]:** Named for the unique black sand the town is built upon, the Cinderline sprung up around a river that washed bits of essentia into a nice deposit downstream, though no one has successfully panned for essentia in the last few years. Locals are fiercely protective of their water supply, as this outpost is the last stop for fresh water before a long stretch of desert.
 - **[[Havalaugh]]:** The name sounds as cordial as the folks in this encampment. Though there isn’t a permanent building in sight, the tents that form this town stretch for at least a mile. Run by someone known only as **[[Pickens]]** (they/them), Havalaugh is fairly receptive to outsiders. The outpost is considered to host the premier marketplace on the eastern side of the mountain, and its High Summer Festival is famous—enough for Havalaugh to nearly quintuple its size for a week. There’s no sheriff in Havalaugh, but anyone who harms a citizen is never heard from again.
