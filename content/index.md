@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T15:31:47.690+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T15:38:03.580+08:00","cssclasses":""}
 ---
 
 
@@ -32,8 +32,8 @@ Shadow of the Colossus, Red Dead Redemption, Deadlands, On the Shoulders of Colo
 
 # **Emergence of Kudamat**
 
-**Siphoning Track:** <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
-**Fear Count:**  <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">
+**Siphoning Track:** <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">  <br>
+**Fear Count:**  <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <br>
 
 > [!Warning]- DO NOT OPEN
 > Kudamat's total power: 0
@@ -52,8 +52,14 @@ Since the *[[02. Phenomena & Stuff/Essentia#Essentia Rush\|Essentia Rush]]* bega
 - **[[01. Locations/01. Outposts/The Iron Kettle]]:** One of the more industrialized outposts in the region, the Iron Kettle is built around a massive mine owned by **[[03. Cast/01. Groups/Iron Tusk Corp]]**. Because of the talent needed to construct the mining infrastructure, it’s a rustic place full of skilled smiths and crafters, many of whom sell goods to travelers outside their work for Iron Tusk. This need for steel goods has given the smiths more power than Iron Tusk would prefer. But a powerful trade union formed by the smiths keeps them in check and governs “**[[03. Cast/01. Groups/The Kettle]]**,” taking the onus (and liability) off the company.
 - **[[01. Locations/01. Outposts/Pryor]]:** Built into a long-abandoned essentia mine, Pryor is often unnoticed by those who don’t know where to look as they ride by. The folk that live in this insular outpost are not known to welcome guests, but if you have a contact who can get you in their good graces, you’re likely to learn the best tricks of the Drylands from the citizens of Pryor. Most of these families stretch back to the time before the Essentia Rush, when there were only a few folk mining these lands.
 - **[[01. Locations/01. Outposts/Defiance]]:** Famous for its position high atop a mesa, Defiance is an outpost rumored to have been established by a band of thieves looking to escape the law—and its position certainly provides a good view of anyone coming their way. These vagrants have a considerable cache of artillery aimed at the ground below, and they aren’t known to fire warning shots.
-
+# **Player Characters:**
+- **Dusty Dimmaridge**: a Ridgeborne Elf Warrior following the Call of the Brave. Played by J.E.
+- **Lady Briar Condord nee Simmons**: a Loreborne Giant/Faerie Bard Wordsmith. Played by R.C.
+- **Beth Bombadeath**: a Ridgeborne Halfling Guardian of Vengeance. Played by J.J.
+- **Sunny Starshroom**: an Underborne Fungril Ranger Wayfinder. Played by E.D.
 # **Notable NPCs:**
 - **Mayor Logan Hartly**, daughter of the late _Wylinn Hartly_, lost many men and women since. She's looking for people who'd protect her city and slay the beast. She is a *Galapa/Simian*.
 - **Baron Ryder Destry**, his name, not his title (yet), claims the beast is supercharging the magic within the essentia. He's wanting folk who'd keep it in the mines. He is a *Human/Elf*.
 - **Preacher Rayos**, a disciple of the New Gods, has started grandstanding about the Prophecy of the Drylands God, claiming the beast is the foretold colossus and one of the harbingers of Kudamat, the First Doom. He's warning people off of essentia. He is an *Infernis/Faerie*.
+
+# **Sessions:**
