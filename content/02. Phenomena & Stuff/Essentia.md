@@ -1,10 +1,10 @@
 ---
-{"publish":true,"modified":"2025-08-25T13:54:59.754+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T15:16:17.042+08:00","cssclasses":""}
 ---
 
 All magic in the Drylands is powered by essentia, and without the crystals and batteries made from them, magic users cannot normally access this power. Had the life forces of the [[03. Cast/01. Groups/Forgotten God\|Forgotten Gods]] not crystallized on the Mortal Plane, its inhabitants would never have harnessed the power of magic. Across the realm, since the dawn of mortalkind, people have mined the earth and plumbed the seas for these crystals of power. But it’s only within the recent past that people learned that, while the raw essentia crystals can provide enormous power, it’s more reliable (and often a more efficient use of less-potent stones) to manufacture batteries. These “essentia cells” are now widely available across the realm, making magic more accessible and the Drylands increasingly wealthy.
 
-> [!question]- **Things to ask players**
+> [!question] **Things to ask players**
 > 
 > - Are you willing to harness the life essence of ancient gods, or do they consider it a profanity?
 > - Do they install raw or polished essentia crystals in their armor or weapons, or do they utilize modern essentia cells?
