@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T15:38:03.580+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T15:40:04.483+08:00","cssclasses":""}
 ---
 
 
@@ -32,8 +32,9 @@ Shadow of the Colossus, Red Dead Redemption, Deadlands, On the Shoulders of Colo
 
 # **Emergence of Kudamat**
 
-**Siphoning Track:** <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox">  <br>
-**Fear Count:**  <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <input type="checkbox"> <br>
+**Siphoning Track:** 1/10  
+
+**Fear Count:** 4/12
 
 > [!Warning]- DO NOT OPEN
 > Kudamat's total power: 0
