@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T13:36:47.114+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-25T15:17:49.517+08:00","cssclasses":""}
 ---
 
 Besides [[01. Locations/01. Outposts/Pryor]] up to the north, Wylinn's Gulch is one of the oldest outposts in the Drylands region. Founded roughly 40 years ago by [[03. Cast/03. NPCS/Wylinn Hartly]], no train enters or exits the Drylands without first going through its borders. At least, if you're coming from anywhere in the west.

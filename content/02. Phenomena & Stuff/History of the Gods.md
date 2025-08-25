@@ -1,3 +1,7 @@
+---
+{"publish":true,"modified":"2025-08-25T15:18:09.305+08:00","cssclasses":""}
+---
+
 The **History of the Gods** is a myth known by many and believed by few: When the [[03. Cast/01. Groups/Forgotten God\|Forgotten Gods]] built the Mortal Realm in the Earliest Age, they made a place of joys and sorrows, freedom and labor. All the creatures of the land, sea, and sky worked for the many gods and enjoyed the spoils and trials of deities that had nothing but time and endless curiosity. These immortals could not fathom that the [[03. Cast/01. Groups/New God\|New Gods]] would one day rise and overthrow them in a violent battle, tossing them from their place in the high Hallows Above and entrapping them in the Mortal Realm and the Circles Below.
 
 Many Forgotten Gods imprisoned in the Mortal Realm were trapped within the ground, buried over the centuries beneath the rise and fall of civilizations. The deific essence of these gods bleeds from their lasting wounds—and whether this enervation was intentional or not, their power seeped into the earth where they’re entombed, running like veins of stone up to the surface. The crystal born from these veins is known as “[[02. Phenomena & Stuff/Essentia\|essentia]],” and all magic in the Mortal Realm comes from its power. As such, there’s a mad scramble for any opportunity to harvest this precious resource, and in the eyes of those in power, land with a vein of essentia is worth the millions of lives sacrificed to the mines built to dig the crystals up.

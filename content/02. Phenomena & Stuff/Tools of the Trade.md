@@ -1,3 +1,8 @@
+---
+{"publish":true,"modified":"2025-08-25T15:18:26.317+08:00","cssclasses":""}
+---
+
+
 Below are unique items available to players for the *Colossus of the Drylands* campaign frame. They are available on top of the base items shown in the core rulebook.
 
 # Primary Weapons

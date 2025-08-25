@@ -1,1 +1,5 @@
+---
+{"publish":true,"modified":"2025-08-25T15:21:34.570+08:00","cssclasses":""}
+---
+
 **Preacher Rayos (he/him)** is an *Infernis/Faerie* who was the first, or perhaps only the loudest, to recognize the rise of the colossus outside [[01. Locations/01. Outposts/Wyllin's Gulch]] as the first step in the [[02. Phenomena & Stuff/Prophecy of the Drylands God]]. He proclaimed the story of [[03. Cast/03. NPCS/Kudamat, the First Doom\|Kudamat]], warning people of the increased dangers of the god’s charged [[02. Phenomena & Stuff/Essentia\|essentia]]. Above all else, he stressed the importance of finding the [[02. Phenomena & Stuff/Soul Shards]] and keeping the god from siphoning them. To get the word out, he took his flock from their home in the [[01. Locations/01. Outposts/Left Luck]] Outpost to Wyllin’s Gulch, the unofficial capital of the western line, where he continues to preach, growing more popular with each passing day. He already had enough of a following in his community — and now times are apocalyptic enough that people are eager for a spiritual leader.

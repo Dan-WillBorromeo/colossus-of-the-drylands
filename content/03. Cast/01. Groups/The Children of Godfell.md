@@ -1,3 +1,8 @@
+---
+{"publish":true,"modified":"2025-08-25T15:18:55.899+08:00","cssclasses":""}
+---
+
+
 Each of [[03. Cast/03. NPCS/Kudamat, the First Doom\|Kudamat]]’s nine [[02. Phenomena & Stuff/Soul Shards]] are protected by a colossus known as a **Child of Godfell**. These beings are physical manifestations of the god’s will, hellbent on protecting their soul shard as its power is siphoned back to the mountain. Formed by elements of the soul shard’s surroundings, each is unique in personality, form, and capabilities.
 
 While there are only nine, according to myth, there have been many names and forms given to them over the ages. Keep in mind, however, that these are only what the mortals *think* the Children will be.
