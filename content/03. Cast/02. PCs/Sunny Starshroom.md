@@ -1,10 +1,12 @@
 ---
-{"publish":true,"modified":"2025-08-26T18:14:59.500+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T18:40:19.020+08:00","cssclasses":""}
 ---
 
 # Background
 
 ## Experiences
+- Idealistic Killer
+- First to Strike
 
 ## Class Questions
 
