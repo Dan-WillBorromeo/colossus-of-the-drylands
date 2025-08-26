@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-26T18:36:16.758+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T18:39:01.236+08:00","cssclasses":""}
 ---
 
 # Background
@@ -10,7 +10,8 @@ Lady Briar Concord nee Simmons becomes a widow at 30 with the recent death of he
 Maybe she's relieved, happy at her recent loss, maybe she mourns as deep as she dresses, the town can only ever assume.
 
 ## Experiences
-
+- First Time's the Charm!
+- This is NOT a Negotiation.
 
 ## Class Questions
 
