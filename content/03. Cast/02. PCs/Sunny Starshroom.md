@@ -1,8 +1,15 @@
 ---
-{"publish":true,"modified":"2025-08-25T22:40:13.418+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T17:32:04.191+08:00","cssclasses":""}
 ---
 
 # Background
+
+
+## Class Questions
+
+
+## Connection Questions
+
 
 # Artwork
 | ![[Sunny Starshroom.jpg\|300]] | ![[Sunny Starshroom 2.jpg\|300]] |

@@ -1,8 +1,13 @@
 ---
-{"publish":true,"modified":"2025-08-25T23:01:36.023+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T18:09:10.421+08:00","cssclasses":""}
 ---
 
 From the divine power surging through the veins of [[02. Phenomena & Stuff/Essentia\|essentia]] come new and terrible beasts. These **aberrations** are smaller than the [[03. Cast/01. Groups/The Children of Godfell\|Colossi]], but share the same goal: keep all creatures away from the [[02. Phenomena & Stuff/Soul Shards]]. Some even resemble the colossi they serve, wielding similar forms or abilities as their titanic counterparts.
+
+
+
+
+
 
 
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T20:43:01.123+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T17:31:37.404+08:00","cssclasses":""}
 ---
 
 # Background
@@ -11,3 +11,10 @@ As they matured, Din hungered for stability and left for the [[01. Locations/01.
 Dusty rides between mesas and outposts, offering help wherever needed hauling crates, shielding miners, etc while leading with a booming greeting of his Guild’s name.
 
 Dusty’s legend grew more when he saved townsfolk from a catastrophic train derailment his impromptu heroics seared his name into local lore. But tragedy struck when the first colossus emerged in the main gulch. Dusty visited Din in the hopes of reunion only to learn that Din perished in the line of duty as the [[03. Cast/01. Groups/The Children of Godfell\|monstrous]] threat rampaged. Guilt and grief now fuel every bullet. Now,  His mission to help is part redemption, part spectacle always driven by that lingering ache for the friend he lost. 
+## Class Questions
+
+
+## Connection Questions
+
+
+# Artwork

@@ -1,5 +1,7 @@
 ---
-{"publish":true,"modified":"2025-08-25T15:21:23.976+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T17:49:25.655+08:00","cssclasses":""}
 ---
+
+
 
 **Mayor Logan Hartly**, the *Galapa/Simian* daughter of the late [[03. Cast/03. NPCS/Wylinn Hartly]], lost many men and women since. She's looking for people who'd protect her city and slay the [[03. Cast/01. Groups/The Children of Godfell\|beast]]. Whoever can dispatch the colossus and its pack of [[03. Cast/01. Groups/Abberations\|abberations]] will receive a chest of fully processed [[02. Phenomena & Stuff/Essentia\|essentia]]. It’s a good deal for anyone who can manage to fight the gigantic force of nature and live to tell the tale.

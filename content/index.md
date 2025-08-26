@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-25T20:56:44.326+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T17:48:58.898+08:00","cssclasses":""}
 ---
 
 
@@ -66,3 +66,4 @@ Since the *[[02. Phenomena & Stuff/Essentia#Essentia Rush\|Essentia Rush]]* bega
 # **Sessions:**
 # **Other Info:**
 - Click [[02. Phenomena & Stuff/Tools of the Trade\|here]] for a list of equipment unique to this campaign.
+- Click [here](https://www.legendsofamerica.com/we-slang) for a list of slang from the Wild West.
