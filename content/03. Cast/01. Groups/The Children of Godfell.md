@@ -1,5 +1,5 @@
 ---
-{"publish":true,"modified":"2025-08-26T19:17:21.014+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-27T08:06:13.968+08:00","cssclasses":""}
 ---
 
 
@@ -8,7 +8,7 @@ Each of [[03. Cast/03. NPCS/Kudamat, the First Doom\|Kudamat]]’s nine [[02. Ph
 While there are only nine, according to myth, there have been many names and forms given to them over the ages. Keep in mind, however, that these are only what the mortals *think* the Children will be.
 
 > [!Warning]- DO NOT OPEN
-> Click [[Children of Godfell Statblocks.canvas|here]] for the stat blocks :D
+> Click [[The Children of Godfell.canvas|here]] for the stat blocks :D
 
 # Prophesized Children of Godfell
 - **Aandira, the One Who Devours**: Her form is a mix of humanoid and spider, and she scurries across the Drylands on bent-back limb with a dozen mouths of broken teeth.

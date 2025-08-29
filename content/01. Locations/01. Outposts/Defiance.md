@@ -1,5 +1,8 @@
 ---
-{"publish":true,"modified":"2025-08-25T15:17:12.723+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-29T10:32:43.423+08:00","cssclasses":""}
 ---
 
 Famous for its position high atop a mesa, **Defiance** is an outpost rumored to have been established by a band of thieves looking to escape the law—and its position certainly provides a good view of anyone coming their way. These vagrants have a considerable cache of artillery aimed at the ground below, and they aren’t known to fire warning shots.
+
+
+

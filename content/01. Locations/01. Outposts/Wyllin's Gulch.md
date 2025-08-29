@@ -1,8 +1,8 @@
 ---
-{"publish":true,"modified":"2025-08-26T18:13:36.163+08:00","cssclasses":""}
+{"publish":true,"modified":"2025-08-26T19:52:43.016+08:00","cssclasses":""}
 ---
 
-Besides [[01. Locations/01. Outposts/Pryor]] up to the north, Wylinn's Gulch is one of the oldest outposts in the Drylands region. Founded roughly 40 years ago by [[03. Cast/03. NPCS/Wylinn Hartly]], no train enters or exits the Drylands without first going through its borders. At least, if you're coming from anywhere in the west.
+Besides [[01. Locations/01. Outposts/Pryor]] up to the north, Wylinn's Gulch is one of the oldest outposts in the Drylands region. Founded roughly 40 years ago by [[03. Cast/04. The Dead Ones/Wylinn Hartly]], no train enters or exits the Drylands without first going through its borders. At least, if you're coming from anywhere in the west.
 
 Belching factories were built up the sides of the [[01. Locations/02. Natural Scenery/Twin Turtles]], two great mesas that bordered the burgeoning town, their massive conveyor lifts hauling tons of [[02. Phenomena & Stuff/Essentia\|essentia]] to the manufactories that process the crystals into the conductive batteries most folk use to power their homes, weapons, and all manner of magical items.
 
